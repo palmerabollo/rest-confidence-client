@@ -1,0 +1,31 @@
+{
+  "name": "rest-confidence-client",
+  "description": "This is a client for rest-confidence, the configuration server",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/palmerabollo/rest-confidence-client"
+  },
+  "author": "Guido García <guido.garcia.bernardo@gmail.com> (http://guidogarcia.net)",
+  "version": "0.2.2",
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "mocha test/spec"
+  },
+  "keywords": [
+    "configuration",
+    "client",
+    "api"
+  ],
+  "dependencies": {
+    "request": "~2.30.0",
+    "q": "~0.9.7"
+  },
+  "devDependencies": {
+    "nock": "*",
+    "mocha": "*",
+    "should": "~2.1.1"
+  }
+}
