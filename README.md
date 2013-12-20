@@ -39,3 +39,8 @@ resolver.load('key1')
         console.log('Unable to query rest-confidence server');
     });
 ```
+
+License
+-------
+
+MIT
