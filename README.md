@@ -11,7 +11,7 @@ Usage
 Initialize a ConfigurationResolver
 
 ```
-var ConfigurationResolver = require('rest-confidence-server');
+var ConfigurationResolver = require('rest-confidence-client');
 
 var resolver = new ConfigurationResolver('http://localhost:8000', {env: 'development'});
 ```
