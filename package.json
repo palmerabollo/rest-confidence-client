@@ -6,7 +6,7 @@
     "url": "git://github.com/palmerabollo/rest-confidence-client"
   },
   "author": "Guido García <guido.garcia.bernardo@gmail.com> (http://guidogarcia.net)",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "node": ">= 0.10.x"
   },
@@ -20,7 +20,7 @@
     "api"
   ],
   "dependencies": {
-    "request": "~2.30.0",
+    "request": "~2.74.0",
     "q": "~0.9.7"
   },
   "devDependencies": {
