@@ -1,9 +1,9 @@
 rest-confidence-client
 ======================
 
-This is a node.js client for the simple [rest-confidence configuration server](https://github.com/palmerabollo/rest-confidence).
+This is a node.js client for the simple [rest-confidence configuration server](https://github.com/palmerabollo/rest-confidence). It hides the REST API details if you do not want to worry about them.
 
-This is not rocket science, but it hides the REST API details if you do not want to worry about them.
+See my the post about ["app configuration the easy way"](https://engineering.telefonica.com/app-configuration-the-easy-way-3723e2a8cc5a) if you plan to use rest-confidence-client.
 
 Usage
 -----
